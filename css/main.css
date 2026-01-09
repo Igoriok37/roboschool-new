@@ -1069,7 +1069,7 @@ a {
 }
 @media (max-width: 576px) {
   .graph-modal__close {
-    background-image: url(../../img/close-dark.svg);
+    background-image: url(../img/close-dark.svg);
     background-repeat: no-repeat;
     color: transparent;
     top: 20px;
@@ -1228,4 +1228,5 @@ a {
   background-color: transparent;
   color: var(--accent-color);
 }/*# sourceMappingURL=main.css.map */
+
 
