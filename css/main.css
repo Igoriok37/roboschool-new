@@ -900,7 +900,7 @@ a {
   padding: 87px 0;
   background-color: var(--accent-color);
   color: var(--light-color);
-  background-image: url(../../img/procents.svg);
+  background-image: url(../img/procents.svg);
   background-size: cover;
   background-position: bottom center;
 }
@@ -1228,3 +1228,4 @@ a {
   background-color: transparent;
   color: var(--accent-color);
 }/*# sourceMappingURL=main.css.map */
+
